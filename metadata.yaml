@@ -1,0 +1,30 @@
+_repo: La-biche-ecrasee_68086
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mille, Pierre
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '6263'
+    url: http://www.gutenberg.org/2009/agents/6263
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Mille
+description: ''
+gutenberg_issued: '2022-05-15'
+identifiers:
+  gutenberg: '68086'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101066379411
+pgterms:marc905: 20211111015659mille
+pgterms:marc906: '1909'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: France :Calmann Lévy,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La biche écrasée
+url: http://www.gutenberg.org/ebooks/68086
